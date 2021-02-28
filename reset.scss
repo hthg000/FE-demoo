@@ -24,3 +24,8 @@
 *::after{
     box-sizing: border-box;
 }
+
+*::selection{
+    background: pink;
+    color: white;
+}
